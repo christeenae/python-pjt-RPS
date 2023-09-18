@@ -1,6 +1,6 @@
 ## Rock Paper Scissors Python Game
 
-This repository contains a simple Rock Paper Scissors game implemented in Python. It's a beginner-friendly project aimed at enhancing your Python skills. Play against the computer, make your choice, and see who wins!
+This repository contains a simple Rock Paper Scissors game implemented in Python. It's a beginner-friendly program aimed at enhancing Python skills. Play against the computer, make your choice, and see who wins!
 
 ### Features:
 
